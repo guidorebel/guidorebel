@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @guidorebel
-- 👀 I’m interested in Python, Qt, DICOM
+- 👀 I’m interested in Python, Qt, DICOM, AdventOfCode
 - 🌱 I’m currently learning GitHub
