@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @guidorebel
+- 👀 I’m interested in Python, Qt, DICOM
+- 🌱 I’m currently learning GitHub
